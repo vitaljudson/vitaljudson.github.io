@@ -1,2 +1,2 @@
 # Portfólio Pessoal
-Este é o portfólio pessoal de Judson Vital.
+Este é o meu portfólio pessoal.
